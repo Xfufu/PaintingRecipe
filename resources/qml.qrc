@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/qtquickcontrols2.conf</file>
+        <file>color/pa.ini</file>
+        <file>color/pa.xml</file>
+        <file>qml/MainPage.qml</file>
+        <file>qml/AddView.qml</file>
+        <file>qml/ColorDisplay.qml</file>
+        <file>icons/chevron-left.svg</file>
+        <file>icons/home.svg</file>
+        <file>icons/task.svg</file>
+        <file>icons/trash.svg</file>
+        <file>qml/RemovePage.qml</file>
+        <file>icons/add.svg</file>
+    </qresource>
+</RCC>

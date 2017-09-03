@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<colors id="PA Air">
+<color ref="71001" id="PA001" name="Blanc" hexColor="#FFFFFF" />
+<color ref="71002" id="PA002" name="Jaune" hexColor="#FEC110" />
+<color ref="71003" id="PA003" name="Rouge" hexColor="#E43301" />
+<color ref="71004" id="PA004" name="Bleu" hexColor="#1C2F5B" />
+<color ref="71005" id="PA005" name="Bleu Intermédiaire - Us Navy WWII" hexColor="#3F4952" />
+<color ref="71006" id="PA006" name="Vert Clair - Cam. WWII - Lichtgrün" hexColor="#4B654A" />
+<color ref="71007" id="PA007" name="Vert Olive" hexColor="" />
+<color ref="71008" id="PA008" name="Bleu Ciel - Hellblau All WWII" hexColor="#C6DBE2" />
+<color ref="71009" id="PA009" name="Duck Egg Green - GB WWII" hexColor="#C4DA99" />
+<color ref="71010" id="PA010" name="Vert Intérieur - US WWII" hexColor="#536437" />
+<color ref="71011" id="PA011" name="Vert Panzer" hexColor="" />
+<color ref="71012" id="PA012" name="Vert foncé - Darkgreen RAF WWII" hexColor="" />
+<color ref="71013" id="PA013" name="Jaune Olive - Japon" hexColor="#454D42" />
+<color ref="71014" id="PA014" name="Vert Foncé - US Moderne" hexColor="#364A41" />
+<color ref="71015" id="PA015" name="Vert Olive- Dunkelgrün- US Vietnam" hexColor="#525842" />
+<color ref="71016" id="PA016" name="Vert US Vietnam" hexColor="#3F4539" />
+<color ref="71017" id="PA017" name="Vert Foncé - URSS WWII - Olivegrün" hexColor="#20341F" />
+<color ref="71018" id="PA018" name="Cam. Vert Noir - I.J.A WWII" hexColor="#3E3D29" />
+<color ref="71019" id="PA019" name="Cam.vert Foncé - I.J.N WWII" hexColor="" />
+<color ref="71020" id="PA020" name="Vert Allemand WWII Graugrün" hexColor="" />
+<color ref="71021" id="PA021" name="Vert Noir WWII - Schwarzgrün - US moderne" hexColor="#383E32" />
+<color ref="71022" id="PA022" name="Cam.vert WWII - Dunkelgrün" hexColor="#2A2C1F" />
+<color ref="71023" id="PA023" name="Beige Cam." hexColor="#948B6C" />
+<color ref="71024" id="PA024" name="Sable US WWII - Marron Kaki" hexColor="" />
+<color ref="71025" id="PA025" name="Jaune - Panzer WWII" hexColor="#9F9059" />
+<color ref="71026" id="PA026" name="Marron - Tan US Vietnam" hexColor="#715540" />
+<color ref="71027" id="PA027" name="Marron Clair - Japon WWII" hexColor="" />
+<color ref="71028" id="PA028" name="Jaune Sable - Panzer WWII" hexColor="" />
+<color ref="71029" id="PA029" name="Terre sombre - GB WWII" hexColor="" />
+<color ref="71030" id="PA030" name="Marron Vert - Panzer WWII" hexColor="" />
+<color ref="71031" id="PA031" name="Midstone WWII GB" hexColor="" />
+<color ref="71032" id="PA032" name="Jaune Mimétique - Ital WWII" hexColor="#70472B" />
+<color ref="71033" id="PA033" name="Ocre" hexColor="" />
+<color ref="71034" id="PA034" name="Jaune Sable All WWII - Sandgelb" hexColor="#634C2A" />
+<color ref="71035" id="PA035" name=";Brun Mimétique - Ital WWII" hexColor="#532F17" />
+<color ref="71036" id="PA036" name="Acajou - Panzer WWII" hexColor="#8F693A" />
+<color ref="71037" id="PA037" name="Marron Terre - Urss WWII" hexColor="#473622" />
+<color ref="71038" id="PA038" name="Brun Moyen Ital Nocciola Chiaro 4" hexColor="" />
+<color ref="71039" id="PA039" name="Marron Rouge Primaire - Japon WWII" hexColor="#531F23" />
+<color ref="71040" id="PA040" name="Terre d' Ombre Brûlée" hexColor="#564032" />
+<color ref="71041" id="PA041" name="Marron Panzer WWII" hexColor="" />
+<color ref="71042" id="PA042" name="Camouflage brun noir" hexColor="" />
+<color ref="71043" id="PA043" name="Olive drab US WWII - Braunviolet" hexColor="#3C3421" />
+<color ref="71044" id="PA044" name="Gris Vert Clair - Grau" hexColor="#7A7561" />
+<color ref="71045" id="PA045" name="Gris Clair US Moderne Light Gray" hexColor="#C8C1B1" />
+<color ref="71046" id="PA046" name="Gris Bleu Clair - US Moderne ADC Gray - Lichtblau All WWII" hexColor="#C9D1D2" />
+<color ref="71047" id="PA047" name="Gris - US Moderne Dark Ghost Gray" hexColor="#818B8D" />
+<color ref="71048" id="PA048" name="Gris Mer Foncé" hexColor="#40474D" />
+<color ref="71049" id="PA049" name="Gris Mer Moyen - GB WWII -v Neutral Gray US Moderne" hexColor="#7A7F82" />
+<color ref="71050" id="PA050" name="Gris Clair - US Moderne Light Ghost Gray" hexColor="#9598A1" />
+<color ref="71051" id="PA051" name="Gris Anglais - Ocean Grey - Medium Gray" hexColor="#67757E" />
+<color ref="71052" id="PA052" name="Gris Allemand - Grauviolett" hexColor="#545E56" />
+<color ref="71053" id="PA053" name="Gris Foncé US moderne - Gunship Gray" hexColor="#414A53" />
+<color ref="71054" id="PA054" name="Bleu Gris Fonce All WWII" hexColor="#474D49" />
+<color ref="71055" id="PA055" name="Gris vert - Dark Gunship Gray" hexColor="#353833" />
+<color ref="71056" id="PA056" name="Gris Noir - Panzer WWII" hexColor="#24272E" />
+<color ref="71057" id="PA057" name="Noir" hexColor="" />
+<color ref="71062" id="PA062" name="Aluminium Mat Métallique" hexColor="" />
+<color ref="71063" id="PA063" name="Argent Métallique" hexColor="" />
+<color ref="71064" id="PA064" name="Chrome Métallique" hexColor="" />
+<color ref="71065" id="PA065" name="Acier Métallique" hexColor="" />
+<color ref="71066" id="PA066" name="Or Métallique" hexColor="" />
+<color ref="71067" id="PA067" name="Laiton Brillant Métallique" hexColor="" />
+<color ref="71068" id="PA068" name="Cuivre Métallique" hexColor="" />
+<color ref="71069" id="PA069" name="Rouille Métallique" hexColor="" />
+<color ref="71070" id="PA070" name="Rouge Signal Métallique" hexColor="" />
+<color ref="71071" id="PA071" name="Bleu Artique Métallique" hexColor="" />
+<color ref="71072" id="PA072" name="Gunmétal" hexColor="" />
+<color ref="71073" id="PA073" name="Noir Métallique" hexColor="" />
+<color ref="71074" id="PA074" name="Beige Radome" hexColor="#F1C7A1" />
+<color ref="71075" id="PA075" name="Sable" hexColor="#C7AB84" />
+<color ref="71076" id="PA076" name="Chair" hexColor="" />
+<color ref="71077" id="PA077" name="Bois" hexColor="" />
+<color ref="71078" id="PA078" name="Jaune Doré" hexColor="" />
+<color ref="71079" id="PA079" name="Terre" hexColor="" />
+<color ref="71080" id="PA080" name="Rouille" hexColor="" />
+<color ref="71081" id="PA081" name="Ocre Jaune Panzer 1943" hexColor="" />
+<color ref="71082" id="PA082" name="Rouge Fluorescent" hexColor="#FB2B11" />
+<color ref="71083" id="PA083" name="Orange" hexColor="" />
+<color ref="71084" id="PA084" name="Rouge Feu" hexColor="" />
+<color ref="71085" id="PA085" name="Rouge Italien" hexColor="" />
+<color ref="71086" id="PA086" name="Rouge Clair" hexColor="" />
+<color ref="71087" id="PA087" name="Beu Acier" hexColor="#070D09" />
+<color ref="71088" id="PA088" name="Bleu de France" hexColor="" />
+<color ref="71089" id="PA089" name="Bleu Clair" hexColor="" />
+<color ref="71090" id="PA090" name="Bleu Blue Angels" hexColor="#070D1B" />
+<color ref="71091" id="PA091" name="Bleu Insigne" hexColor="#323C48" />
+<color ref="71092" id="PA092" name="Vert Moyen" hexColor="#454932" />
+<color ref="71093" id="PA093" name="Vert Uniforme" hexColor="#4A4C34" />
+<color ref="71094" id="PA094" name="Vert Zinc Chromate" hexColor="" />
+<color ref="71095" id="PA095" name="Vert Pâle" hexColor="#4D6B53" />
+<color ref="71096" id="PA096" name="Vert Olive Panzer" hexColor="" />
+<color ref="71097" id="PA097" name="Gris de Base" hexColor="" />
+</colors>

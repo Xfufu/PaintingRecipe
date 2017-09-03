@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<recipes id="recipes">
+    <recipe id="First recipe">
+        <category>General</category>
+        <color id="PA002"
+        type="light"
+        level="1"/>
+        <color id="PA003"
+        type="base"
+        level="0"/>
+        <color id="PA004"
+        type="shadow"
+        level="1"/>
+        <comment>commentaire 1</comment>
+    </recipe>
+    <recipe id="Second recipe">
+        <category>General</category>
+        <color id=""
+        type="light"
+        level=""/>
+        <comment></comment>
+    </recipe>
+</recipes>
