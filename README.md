@@ -1,0 +1,1 @@
+This is an application to store and edit paint recipe for miniature painting.
